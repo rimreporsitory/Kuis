@@ -1,0 +1,1814 @@
+{
+  "quiz": [
+    {
+      "question": "Apa nama benua\nyang dikenal sebagai\nbenua hitam?",
+      "choices": {
+        "A": "Asia",
+        "B": "Eropa",
+        "C": "Afrika"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama sungai\nterpanjang di dunia?",
+      "choices": {
+        "A": "Sungai Amazon",
+        "B": "Sungai Nil",
+        "C": "Sungai Yangtze"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama mata uang\nyang digunakan di Jepang?",
+      "choices": {
+        "A": "Yuan",
+        "B": "Dolar",
+        "C": "Yen"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Siapa penemu telepon?",
+      "choices": {
+        "A": "Alexander Graham Bell",
+        "B": "Thomas Edison",
+        "C": "Nikola Tesla"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama organisasi\nyang mengatur olahraga\nOlimpiade?",
+      "choices": {
+        "A": "FIFA",
+        "B": "IOC",
+        "C": "NBA"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Di benua manakah\nnegara Australia berada?",
+      "choices": {
+        "A": "Asia",
+        "B": "Afrika",
+        "C": "Oseania"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama bentuk\npemerintahan di Inggris?",
+      "choices": {
+        "A": "Republik",
+        "B": "Monarki Konstitusi",
+        "C": "Demokrasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota\nKanada?",
+      "choices": {
+        "A": "Toronto",
+        "B": "Vancouver",
+        "C": "Ottawa"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama garis\nkhayal yang membagi\nbumi menjadi belahan\nutara dan selatan?",
+      "choices": {
+        "A": "Garis Khatulistiwa",
+        "B": "Garis Greenwich",
+        "C": "Garis Poler"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama perjanjian\ninternasional yang membatasi\npenggunaan senjata nuklir?",
+      "choices": {
+        "A": "Perjanjian Paris",
+        "B": "Perjanjian Non-Proliferasi Nuklir",
+        "C": "Perjanjian Geneva"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Negara manakah yang\nterletak di benua Asia\n dan terkenal dengan\nGreat Wall-nya?",
+      "choices": {
+        "A": "Jepang",
+        "B": "China",
+        "C": "India"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama presiden\npertama Indonesia?",
+      "choices": {
+        "A": "Soekarno",
+        "B": "Soeharto",
+        "C": "BJ Habibie"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama sistem\npemerintahan yang diterapkan\n di Indonesia?",
+      "choices": {
+        "A": "Monarki",
+        "B": "Republik",
+        "C": "Kongres"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa ibu kota dari\nnegara Brasil?",
+      "choices": {
+        "A": "Rio de Janeiro",
+        "B": "São Paulo",
+        "C": "Brasília"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama samudra\nterbesar di dunia?",
+      "choices": {
+        "A": "Samudra Atlantik",
+        "B": "Samudra Hindia",
+        "C": "Samudra Pasifik"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Di negara manakah\nkota Paris berada?",
+      "choices": {
+        "A": "Jerman",
+        "B": "Perancis",
+        "C": "Belgia"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama organisasi\ninternasional yang bertujuan\nuntuk menjaga perdamaian\n dunia?",
+      "choices": {
+        "A": "UNICEF",
+        "B": "WHO",
+        "C": "PBB"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama pulau\nterbesar di Indonesia?",
+      "choices": {
+        "A": "Bali",
+        "B": "Sumatra",
+        "C": "Kalimantan"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama sistem\npengukuran yang digunakan\n di sebagian besar negara\n di dunia termasuk Indonesia?",
+      "choices": {
+        "A": "Sistem Imperial",
+        "B": "Sistem Metrik",
+        "C": "Sistem Tradisional"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama perdagangan\nantar negara yang dilakukan\n dengan cara jual beli barang?",
+      "choices": {
+        "A": "Ekspor",
+        "B": "Impor",
+        "C": "Perdagangan Internasional"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bagian dari mata\nyang berfungsi untuk\nmengatur jumlah cahaya\n yang masuk adalah?",
+      "choices": {
+        "A": "Lensa",
+        "B": "Pupil",
+        "C": "Iris"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Proses perubahan air\nmenjadi uap air karena\n panas disebut?",
+      "choices": {
+        "A": "Kondensasi",
+        "B": "Evaporasi",
+        "C": "Presipitasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama alat\n yang digunakan untuk\nmengukur kekuatan gempa\n bumi?",
+      "choices": {
+        "A": "Barometer",
+        "B": "Seismograf",
+        "C": "Anemometer"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Perubahan wujud zat\n dari cair menjadi padat\n disebut?",
+      "choices": {
+        "A": "Menguap",
+        "B": "Mencair",
+        "C": "Membeku"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Tumbuhan yang menyimpan\ncadangan makanan pada\nbatangnya adalah?",
+      "choices": {
+        "A": "Singkong",
+        "B": "Padi",
+        "C": "Sagu"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hewan yang mengalami\nmetamorfosis sempurna adalah?",
+      "choices": {
+        "A": "Ayam",
+        "B": "Kupu-kupu",
+        "C": "Kucing"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Lapisan bumi tempat\nkita tinggal disebut?",
+      "choices": {
+        "A": "Mantel",
+        "B": "Inti",
+        "C": "Kerak"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sumber energi yang tidak\n dapat diperbarui adalah?",
+      "choices": {
+        "A": "Minyak bumi",
+        "B": "Angin",
+        "C": "Matahari"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Bagian tumbuhan yang\nberfungsi sebagai alat\nperkembangbiakan adalah?",
+      "choices": {
+        "A": "Akar",
+        "B": "Daun",
+        "C": "Bunga"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Proses dimana tumbuhan\nmengubah sinar matahari\n menjadi energi disebut?",
+      "choices": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Transpirasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang menjadi sumber\nenergi utama bagi kehidupan\n di Bumi?",
+      "choices": {
+        "A": "Matahari",
+        "B": "Bulan",
+        "C": "Bintang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi pada\nair ketika dibekukan?",
+      "choices": {
+        "A": "Menjadi gas",
+        "B": "Menjadi es",
+        "C": "Menghilang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Hewan apa yang disebut\nraja hutan?",
+      "choices": {
+        "A": "Gajah",
+        "B": "Harimau",
+        "C": "Singa"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa bagian tanaman\n yang berfungsi menyerap\n air dan nutrisi dari tanah?",
+      "choices": {
+        "A": "Daun",
+        "B": "Akar",
+        "C": "Batang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang digunakan tanaman\nuntuk membuat makanan\n melalui proses fotosintesis?",
+      "choices": {
+        "A": "Air, udara, dan cahaya matahari",
+        "B": "Air, batu, dan tanah",
+        "C": "Air, angin, dan api"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi saat\nsiang hari ketika Matahari\nberada di atas kepala\n kita?",
+      "choices": {
+        "A": "Siang menjadi malam",
+        "B": "Bayangan menjadi pendek",
+        "C": "Bayangan menjadi panjang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang dihasilkan oleh\nlebah selain madu?",
+      "choices": {
+        "A": "Gula",
+        "B": "Lilin",
+        "C": "Kertas"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang terjadi jika\nkita menyiram tanaman\n setiap hari?",
+      "choices": {
+        "A": "Tanaman akan layu",
+        "B": "Tanaman akan tumbuh subur",
+        "C": "Tanaman akan mengering"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama planet terbesar\n di tata surya kita?",
+      "choices": {
+        "A": "Bumi",
+        "B": "Mars",
+        "C": "Jupiter"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa yang terjadi pada\nbayangan kita saat malam\nhari tanpa adanya cahaya?",
+      "choices": {
+        "A": "Bayangan terlihat jelas",
+        "B": "Bayangan menjadi sangat besar",
+        "C": "Bayangan tidak terlihat"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama reaksi yang menghasilkan energi dalam bentuk panas dan cahaya antara oksigen dan bahan bakar?",
+      "choices": {
+        "A": "Reaksi reduksi",
+        "B": "Reaksi oksidasi",
+        "C": "Reaksi pembakaran",
+        "D": "Reaksi substitusi"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Jika suhu gas meningkat, maka volume gas akan...",
+      "choices": {
+        "A": "Menurun",
+        "B": "Meningkat",
+        "C": "Tetap",
+        "D": "Tidak dapat ditentukan"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Berdasarkan teori atom, siapa yang pertama kali mengusulkan model atom dengan elektron yang mengelilingi inti?",
+      "choices": {
+        "A": "Dalton",
+        "B": "Thomson",
+        "C": "Bohr",
+        "D": "Einstein"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hukum gas ideal dapat dirumuskan dengan persamaan...",
+      "choices": {
+        "A": "PV = nRT",
+        "B": "E = mc²",
+        "C": "F = ma",
+        "D": "P = V/T"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Senyawa yang memiliki rumus C6H12O6 adalah...",
+      "choices": {
+        "A": "Glukosa",
+        "B": "Etanol",
+        "C": "Asam asetat",
+        "D": "Asam askorbat"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Proses fotosintesis terjadi di organel sel yang disebut...",
+      "choices": {
+        "A": "Mitokondria",
+        "B": "Kloroplas",
+        "C": "Retikulum endoplasma",
+        "D": "Vakuola"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika gaya yang bekerja pada benda adalah 10 N dan benda tersebut memiliki massa 2 kg, maka percepatan benda adalah...",
+      "choices": {
+        "A": "5 m/s²",
+        "B": "2 m/s²",
+        "C": "20 m/s²",
+        "D": "10 m/s²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Hukum Newton yang menyatakan bahwa setiap aksi akan menimbulkan reaksi yang sama besar tetapi berlawanan arah adalah hukum...",
+      "choices": {
+        "A": "Hukum pertama",
+        "B": "Hukum kedua",
+        "C": "Hukum ketiga",
+        "D": "Hukum keempat"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Unsur yang memiliki nomor atom 1 adalah...",
+      "choices": {
+        "A": "Hidrogen",
+        "B": "Helium",
+        "C": "Lithium",
+        "D": "Karbon"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Jika sebuah benda bergerak dengan kecepatan tetap, maka benda tersebut berada dalam kondisi...",
+      "choices": {
+        "A": "Diam",
+        "B": "Equilibrium",
+        "C": "Percepatan konstan",
+        "D": "Gerak lurus beraturan"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Unsur yang membentuk asam klorida adalah...",
+      "choices": {
+        "A": "Hidrogen dan klor",
+        "B": "Sodium dan klor",
+        "C": "Hidrogen dan oksigen",
+        "D": "Nitrogen dan oksigen"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Proses pengendapan adalah contoh dari jenis perubahan fisika yang disebut...",
+      "choices": {
+        "A": "Perubahan kimia",
+        "B": "Perubahan fisika",
+        "C": "Reaksi redoks",
+        "D": "Reaksi endoterm"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Berdasarkan hukum Boyle, tekanan gas berbanding terbalik dengan volume pada suhu konstan. Jika volume gas dikurangi setengahnya, maka tekanannya akan...",
+      "choices": {
+        "A": "Setengah",
+        "B": "Berlipat ganda",
+        "C": "Tetap",
+        "D": "Berubah tidak tentu"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Reaksi pembakaran adalah contoh dari reaksi...",
+      "choices": {
+        "A": "Eksoterm",
+        "B": "Endoterm",
+        "C": "Sublimasi",
+        "D": "Polimerisasi"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Tingkat pH dalam tubuh manusia yang normal adalah...",
+      "choices": {
+        "A": "7",
+        "B": "5",
+        "C": "8",
+        "D": "6"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Benda yang memiliki massa 2 kg dan bergerak dengan kecepatan 3 m/s, energi kinetiknya adalah...",
+      "choices": {
+        "A": "9 Joule",
+        "B": "18 Joule",
+        "C": "3 Joule",
+        "D": "6 Joule"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang dimaksud dengan energi potensial gravitasi?",
+      "choices": {
+        "A": "Energi yang dimiliki benda karena gerakannya",
+        "B": "Energi yang dimiliki benda karena posisinya terhadap pusat Bumi",
+        "C": "Energi yang terkandung dalam ikatan kimia",
+        "D": "Energi yang dihasilkan oleh reaksi nuklir"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Reaksi yang mengubah zat padat menjadi gas disebut...",
+      "choices": {
+        "A": "Peleburan",
+        "B": "Sublimasi",
+        "C": "Kondensasi",
+        "D": "Evaporasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Berdasarkan hukum kekekalan energi, energi tidak dapat...",
+      "choices": {
+        "A": "Diciptakan atau dihancurkan",
+        "B": "Berubah bentuk",
+        "C": "Dikendalikan",
+        "D": "Dipindahkan"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Panjang sisi suatu persegi adalah 5 cm. Berapa luasnya?",
+      "choices": {
+        "A": "25 cm²",
+        "B": "10 cm²",
+        "C": "20 cm²",
+        "D": "5 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Jumlah solusi dari persamaan kuadrat x² - 5x + 6 = 0 adalah...",
+      "choices": {
+        "A": "1 solusi",
+        "B": "2 solusi",
+        "C": "Tidak ada solusi",
+        "D": "3 solusi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Luas lingkaran dengan jari-jari 7 cm adalah...",
+      "choices": {
+        "A": "49π cm²",
+        "B": "14π cm²",
+        "C": "21 cm²",
+        "D": "14 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Jika terdapat segitiga dengan panjang sisi 3 cm, 4 cm, dan 5 cm, maka segitiga tersebut adalah segitiga...",
+      "choices": {
+        "A": "Siku-siku",
+        "B": "Sama panjang",
+        "C": "Sama kaki",
+        "D": "Sembarang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Integral dari fungsi f(x) = 3x² adalah...",
+      "choices": {
+        "A": "x³ + C",
+        "B": "x³ + 3C",
+        "C": "x² + C",
+        "D": "3x³ + C"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Fungsi trigonometri yang digunakan untuk mencari rasio sisi miring terhadap sisi tegak segitiga siku-siku adalah...",
+      "choices": {
+        "A": "Sine",
+        "B": "Cosine",
+        "C": "Tangen",
+        "D": "Cotangen"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Suatu bilangan faktorial 5! = ...",
+      "choices": {
+        "A": "120",
+        "B": "24",
+        "C": "60",
+        "D": "720"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kubus memiliki volume 64 cm³. Berapa panjang sisi kubus tersebut?",
+      "choices": {
+        "A": "4 cm",
+        "B": "8 cm",
+        "C": "2 cm",
+        "D": "16 cm"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang dimaksud dengan periode getaran?",
+      "choices": {
+        "A": "Waktu yang dibutuhkan untuk satu kali getaran",
+        "B": "Jumlah getaran per detik",
+        "C": "Jarak antara dua puncak gelombang",
+        "D": "Kecepatan rambat gelombang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Frekuensi adalah...",
+      "choices": {
+        "A": "Jumlah getaran per detik",
+        "B": "Waktu untuk satu getaran",
+        "C": "Jarak antara dua lembah gelombang",
+        "D": "Kecepatan gelombang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Hubungan antara frekuensi dan periode getaran adalah...",
+      "choices": {
+        "A": "f = 1/T",
+        "B": "f = T²",
+        "C": "f = T x v",
+        "D": "f = T/v"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang dimaksud dengan amplitudo?",
+      "choices": {
+        "A": "Tinggi maksimum dari getaran",
+        "B": "Jumlah getaran per detik",
+        "C": "Jarak antara dua puncak gelombang",
+        "D": "Waktu untuk satu gelombang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Gelombang yang membutuhkan medium untuk merambat disebut...",
+      "choices": {
+        "A": "Gelombang mekanik",
+        "B": "Gelombang elektromagnetik",
+        "C": "Gelombang cahaya",
+        "D": "Gelombang transversal"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Contoh gelombang transversal adalah...",
+      "choices": {
+        "A": "Gelombang cahaya",
+        "B": "Gelombang suara",
+        "C": "Gelombang pada slinky",
+        "D": "Gelombang tekanan"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang dimaksud dengan panjang gelombang?",
+      "choices": {
+        "A": "Jarak antara dua puncak gelombang yang berurutan",
+        "B": "Waktu untuk satu getaran",
+        "C": "Jumlah getaran per detik",
+        "D": "Kecepatan rambat gelombang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Rumus kecepatan gelombang adalah...",
+      "choices": {
+        "A": "v = λ × f",
+        "B": "v = λ / f",
+        "C": "v = f / λ",
+        "D": "v = λ² × f"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Gelombang bunyi merupakan contoh gelombang...",
+      "choices": {
+        "A": "Longitudinal",
+        "B": "Transversal",
+        "C": "Elektromagnetik",
+        "D": "Mekanikal"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Gelombang elektromagnetik tidak memerlukan ... untuk merambat.",
+      "choices": {
+        "A": "Medium",
+        "B": "Amplitudo",
+        "C": "Panjang gelombang",
+        "D": "Frekuensi"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Jika frekuensi gelombang meningkat, maka panjang gelombang akan...",
+      "choices": {
+        "A": "Menurun",
+        "B": "Meningkat",
+        "C": "Tetap",
+        "D": "Tidak dapat ditentukan"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Interferensi konstruktif terjadi jika...",
+      "choices": {
+        "A": "Dua gelombang bertemu dengan fase yang sama",
+        "B": "Dua gelombang bertemu dengan fase berlawanan",
+        "C": "Gelombang merambat melalui medium",
+        "D": "Gelombang dipantulkan"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Hukum pemantulan gelombang menyatakan bahwa...",
+      "choices": {
+        "A": "Sudut datang sama dengan sudut pantul",
+        "B": "Sudut datang lebih kecil dari sudut pantul",
+        "C": "Sudut pantul lebih besar dari sudut datang",
+        "D": "Sudut datang dan pantul tidak berhubungan"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Fenomena pergeseran frekuensi akibat gerakan sumber atau pendengar disebut...",
+      "choices": {
+        "A": "Efek Doppler",
+        "B": "Interferensi",
+        "C": "Polarisasi",
+        "D": "Difraksi"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi jika gelombang masuk ke medium yang lebih rapat?",
+      "choices": {
+        "A": "Kecepatan gelombang menurun",
+        "B": "Kecepatan gelombang meningkat",
+        "C": "Panjang gelombang tetap",
+        "D": "Frekuensi gelombang berubah"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Frekuensi suatu gelombang adalah 10 Hz. Berapa periode gelombangnya?",
+      "choices": {
+        "A": "0,1 detik",
+        "B": "1 detik",
+        "C": "10 detik",
+        "D": "100 detik"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Gelombang stasioner terjadi ketika...",
+      "choices": {
+        "A": "Dua gelombang merambat berlawanan arah",
+        "B": "Gelombang dipantulkan sepenuhnya",
+        "C": "Gelombang mengalami refraksi",
+        "D": "Gelombang tidak bergerak"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Puncak gelombang disebut juga sebagai...",
+      "choices": {
+        "A": "Kresten",
+        "B": "Lembah",
+        "C": "Frekuensi",
+        "D": "Periode"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Panjang gelombang suatu gelombang adalah 2 m, dan frekuensinya 5 Hz. Berapa kecepatan gelombangnya?",
+      "choices": {
+        "A": "10 m/s",
+        "B": "5 m/s",
+        "C": "2 m/s",
+        "D": "25 m/s"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Sebuah benda mengalami 20 getaran dalam waktu 4 detik. Frekuensinya adalah...",
+      "choices": {
+        "A": "5 Hz",
+        "B": "10 Hz",
+        "C": "15 Hz",
+        "D": "20 Hz"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah benda bergetar sebanyak 50 kali dalam waktu 5 detik. Berapakah frekuensi getaran benda tersebut?",
+      "choices": {
+        "A": "5 Hz",
+        "B": "10 Hz",
+        "C": "15 Hz",
+        "D": "25 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika sebuah gelombang memiliki panjang gelombang 4 m dan frekuensi 2 Hz, berapa kecepatan rambat gelombangnya?",
+      "choices": {
+        "A": "6 m/s",
+        "B": "8 m/s",
+        "C": "10 m/s",
+        "D": "12 m/s"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Waktu yang diperlukan sebuah benda untuk menyelesaikan 1 getaran adalah 0,25 detik. Berapa frekuensinya?",
+      "choices": {
+        "A": "2 Hz",
+        "B": "4 Hz",
+        "C": "5 Hz",
+        "D": "8 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Gelombang memiliki kecepatan 20 m/s dan panjang gelombang 5 m. Berapakah frekuensi gelombang tersebut?",
+      "choices": {
+        "A": "2 Hz",
+        "B": "4 Hz",
+        "C": "6 Hz",
+        "D": "10 Hz"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Jika sebuah gelombang memiliki frekuensi 5 Hz dan periode 0,2 detik, apakah nilai panjang gelombangnya jika kecepatan gelombang 10 m/s?",
+      "choices": {
+        "A": "0,5 m",
+        "B": "1 m",
+        "C": "2 m",
+        "D": "4 m"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Berapa kecepatan gelombang yang memiliki frekuensi 10 Hz dan panjang gelombang 2,5 m?",
+      "choices": {
+        "A": "15 m/s",
+        "B": "20 m/s",
+        "C": "25 m/s",
+        "D": "30 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Benda bergetar sebanyak 200 kali dalam 20 detik. Hitung periode getarannya.",
+      "choices": {
+        "A": "0,1 detik",
+        "B": "0,2 detik",
+        "C": "0,5 detik",
+        "D": "1 detik"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Jika panjang gelombang adalah 3 m dan kecepatannya 12 m/s, hitung frekuensinya.",
+      "choices": {
+        "A": "2 Hz",
+        "B": "3 Hz",
+        "C": "4 Hz",
+        "D": "5 Hz"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah gelombang bergerak dengan kecepatan 60 m/s dan memiliki frekuensi 15 Hz. Berapa panjang gelombangnya?",
+      "choices": {
+        "A": "3 m",
+        "B": "4 m",
+        "C": "5 m",
+        "D": "6 m"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah gelombang memiliki kecepatan 40 m/s dan panjang gelombang 8 m. Hitunglah frekuensinya.",
+      "choices": {
+        "A": "4 Hz",
+        "B": "5 Hz",
+        "C": "6 Hz",
+        "D": "8 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah benda bergetar dengan periode 0,5 detik. Hitunglah frekuensinya.",
+      "choices": {
+        "A": "0,5 Hz",
+        "B": "1 Hz",
+        "C": "2 Hz",
+        "D": "4 Hz"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Berapa panjang gelombang jika frekuensinya 25 Hz dan kecepatannya 50 m/s?",
+      "choices": {
+        "A": "1 m",
+        "B": "2 m",
+        "C": "2,5 m",
+        "D": "5 m"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika frekuensi gelombang adalah 10 Hz dan panjang gelombangnya 4 m, hitung kecepatannya.",
+      "choices": {
+        "A": "10 m/s",
+        "B": "20 m/s",
+        "C": "40 m/s",
+        "D": "50 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Gelombang memiliki panjang gelombang 0,2 m dan frekuensi 100 Hz. Berapa kecepatan rambat gelombang?",
+      "choices": {
+        "A": "10 m/s",
+        "B": "20 m/s",
+        "C": "40 m/s",
+        "D": "50 m/s"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Hitunglah panjang gelombang jika kecepatan rambatnya 32 m/s dan frekuensinya 8 Hz.",
+      "choices": {
+        "A": "2 m",
+        "B": "3 m",
+        "C": "4 m",
+        "D": "5 m"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Benda menyelesaikan 30 getaran dalam 6 detik. Berapa frekuensinya?",
+      "choices": {
+        "A": "3 Hz",
+        "B": "4 Hz",
+        "C": "5 Hz",
+        "D": "6 Hz"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Gelombang memiliki kecepatan 300 m/s dan frekuensi 150 Hz. Hitung panjang gelombangnya.",
+      "choices": {
+        "A": "1 m",
+        "B": "2 m",
+        "C": "3 m",
+        "D": "4 m"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika panjang gelombang 2,5 m dan frekuensinya 4 Hz, berapa kecepatan gelombangnya?",
+      "choices": {
+        "A": "5 m/s",
+        "B": "7,5 m/s",
+        "C": "10 m/s",
+        "D": "12,5 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah benda menyelesaikan 12 getaran dalam 4 detik. Berapa periode getarannya?",
+      "choices": {
+        "A": "0,25 detik",
+        "B": "0,33 detik",
+        "C": "0,5 detik",
+        "D": "0,75 detik"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Gelombang memiliki frekuensi 8 Hz dan panjang gelombang 2 m. Berapa kecepatannya?",
+      "choices": {
+        "A": "12 m/s",
+        "B": "14 m/s",
+        "C": "16 m/s",
+        "D": "18 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Frekuensi gelombang adalah 5 Hz dan kecepatan rambatnya 15 m/s. Berapakah panjang gelombangnya?",
+      "choices": {
+        "A": "2 m",
+        "B": "3 m",
+        "C": "4 m",
+        "D": "5 m"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Gelombang dengan panjang 6 m dan kecepatan 12 m/s memiliki frekuensi...",
+      "choices": {
+        "A": "1 Hz",
+        "B": "2 Hz",
+        "C": "3 Hz",
+        "D": "4 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika sebuah benda bergetar sebanyak 100 kali dalam 20 detik, berapakah periode getarannya?",
+      "choices": {
+        "A": "0,1 detik",
+        "B": "0,2 detik",
+        "C": "0,5 detik",
+        "D": "1 detik"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah gelombang bergerak dengan kecepatan 24 m/s dan memiliki panjang gelombang 3 m. Berapakah frekuensinya?",
+      "choices": {
+        "A": "6 Hz",
+        "B": "8 Hz",
+        "C": "10 Hz",
+        "D": "12 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah benda bergetar sebanyak 60 kali dalam waktu 15 detik. Berapakah frekuensi getaran benda tersebut?",
+      "choices": {
+        "A": "2 Hz",
+        "B": "4 Hz",
+        "C": "6 Hz",
+        "D": "8 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika waktu yang diperlukan untuk satu getaran adalah 0,1 detik, hitunglah frekuensinya.",
+      "choices": {
+        "A": "5 Hz",
+        "B": "10 Hz",
+        "C": "20 Hz",
+        "D": "50 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah gelombang memiliki panjang gelombang 2 meter dan frekuensi 5 Hz. Berapakah cepat rambat gelombang tersebut?",
+      "choices": {
+        "A": "5 m/s",
+        "B": "7 m/s",
+        "C": "10 m/s",
+        "D": "15 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Benda bergetar sebanyak 150 kali dalam waktu 30 detik. Hitunglah frekuensi getarannya.",
+      "choices": {
+        "A": "2 Hz",
+        "B": "3 Hz",
+        "C": "4 Hz",
+        "D": "5 Hz"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Waktu yang diperlukan untuk satu gelombang adalah 0,2 detik. Berapakah periode gelombang tersebut?",
+      "choices": {
+        "A": "0,1 detik",
+        "B": "0,2 detik",
+        "C": "5 detik",
+        "D": "10 detik"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Gelombang merambat dengan kecepatan 300 m/s dan memiliki panjang gelombang 0,5 meter. Berapakah frekuensinya?",
+      "choices": {
+        "A": "100 Hz",
+        "B": "200 Hz",
+        "C": "300 Hz",
+        "D": "600 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika frekuensi gelombang adalah 10 Hz dan cepat rambatnya adalah 50 m/s, berapakah panjang gelombangnya?",
+      "choices": {
+        "A": "2,5 m",
+        "B": "5 m",
+        "C": "10 m",
+        "D": "50 m"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah gelombang memiliki periode 0,25 detik. Hitunglah frekuensinya.",
+      "choices": {
+        "A": "2 Hz",
+        "B": "4 Hz",
+        "C": "6 Hz",
+        "D": "8 Hz"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah gelombang memiliki panjang gelombang 4 meter dan frekuensi 25 Hz. Berapakah cepat rambat gelombangnya?",
+      "choices": {
+        "A": "100 m/s",
+        "B": "200 m/s",
+        "C": "300 m/s",
+        "D": "400 m/s"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Frekuensi suatu gelombang adalah 10 Hz, dan panjang gelombangnya adalah 2 meter. Hitunglah cepat rambatnya.",
+      "choices": {
+        "A": "20 m/s",
+        "B": "25 m/s",
+        "C": "30 m/s",
+        "D": "40 m/s"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Gelombang air memiliki panjang gelombang 2 meter dan periode 0,5 detik. Berapakah cepat rambat gelombang air tersebut?",
+      "choices": {
+        "A": "1 m/s",
+        "B": "2 m/s",
+        "C": "3 m/s",
+        "D": "4 m/s"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Jika waktu yang diperlukan untuk 1 getaran adalah 0,05 detik, berapakah periode gelombangnya?",
+      "choices": {
+        "A": "0,05 detik",
+        "B": "0,1 detik",
+        "C": "0,2 detik",
+        "D": "0,5 detik"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah gelombang memiliki panjang 3 meter dan merambat dengan kecepatan 9 m/s. Hitunglah frekuensinya.",
+      "choices": {
+        "A": "1 Hz",
+        "B": "2 Hz",
+        "C": "3 Hz",
+        "D": "4 Hz"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Gelombang memiliki frekuensi 8 Hz dan kecepatan 64 m/s. Hitunglah panjang gelombangnya.",
+      "choices": {
+        "A": "6 m",
+        "B": "7 m",
+        "C": "8 m",
+        "D": "9 m"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Berapa lama waktu yang dibutuhkan untuk 10 getaran jika periode gelombang adalah 0,2 detik?",
+      "choices": {
+        "A": "2 detik",
+        "B": "4 detik",
+        "C": "5 detik",
+        "D": "10 detik"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika panjang gelombang adalah 1,5 meter dan frekuensi adalah 6 Hz, berapakah cepat rambat gelombangnya?",
+      "choices": {
+        "A": "9 m/s",
+        "B": "12 m/s",
+        "C": "15 m/s",
+        "D": "18 m/s"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Sebuah gelombang memiliki frekuensi 5 Hz dan panjang gelombang 3 meter. Hitunglah cepat rambat gelombangnya.",
+      "choices": {
+        "A": "10 m/s",
+        "B": "12 m/s",
+        "C": "15 m/s",
+        "D": "20 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah gelombang memerlukan waktu 0,25 detik untuk satu getaran. Hitunglah periode gelombangnya.",
+      "choices": {
+        "A": "0,2 detik",
+        "B": "0,25 detik",
+        "C": "0,5 detik",
+        "D": "1 detik"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah gelombang air memiliki panjang gelombang 10 meter dan periode 2 detik. Berapakah kecepatan gelombang air tersebut?",
+      "choices": {
+        "A": "5 m/s",
+        "B": "7 m/s",
+        "C": "10 m/s",
+        "D": "15 m/s"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Berapa panjang gelombang jika cepat rambatnya 90 m/s dan frekuensinya 30 Hz?",
+      "choices": {
+        "A": "1 m",
+        "B": "2 m",
+        "C": "3 m",
+        "D": "4 m"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Kecepatan bunyi di udara pada suhu 27°C adalah sekitar...",
+      "choices": {
+        "A": "331 m/s",
+        "B": "340 m/s",
+        "C": "343 m/s",
+        "D": "350 m/s"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bunyi dapat merambat melalui...",
+      "choices": {
+        "A": "Vakum saja",
+        "B": "Medium padat, cair, dan gas",
+        "C": "Medium padat saja",
+        "D": "Medium gas saja"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Frekuensi bunyi yang dapat didengar manusia adalah...",
+      "choices": {
+        "A": "1 Hz - 10 Hz",
+        "B": "10 Hz - 1000 Hz",
+        "C": "20 Hz - 20.000 Hz",
+        "D": "200 Hz - 200.000 Hz"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Suara dengan frekuensi di bawah 20 Hz disebut...",
+      "choices": {
+        "A": "Ultrasonik",
+        "B": "Audiosonik",
+        "C": "Infrasonik",
+        "D": "Supersonik"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Jika sebuah bunyi memiliki frekuensi 256 Hz dan panjang gelombang 1,33 meter, berapakah kecepatan bunyi tersebut?",
+      "choices": {
+        "A": "256 m/s",
+        "B": "333 m/s",
+        "C": "341 m/s",
+        "D": "384 m/s"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Manakah yang merupakan bunyi ultrasonik?",
+      "choices": {
+        "A": "15 Hz",
+        "B": "150 Hz",
+        "C": "15.000 Hz",
+        "D": "25.000 Hz"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Cepat rambat bunyi dalam air lebih besar dibandingkan udara karena...",
+      "choices": {
+        "A": "Air lebih panas",
+        "B": "Air lebih padat",
+        "C": "Air memiliki viskositas rendah",
+        "D": "Air lebih ringan"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika intensitas bunyi bertambah 10 kali lipat, tingkat intensitas bunyi bertambah sebesar...",
+      "choices": {
+        "A": "1 dB",
+        "B": "10 dB",
+        "C": "100 dB",
+        "D": "1000 dB"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Bunyi yang berasal dari benda yang bergetar disebut...",
+      "choices": {
+        "A": "Eko",
+        "B": "Gema",
+        "C": "Sumber bunyi",
+        "D": "Resonansi"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Fenomena pemantulan bunyi yang terdengar jelas disebut...",
+      "choices": {
+        "A": "Difraksi",
+        "B": "Gema",
+        "C": "Refraksi",
+        "D": "Interferensi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Berapa panjang gelombang bunyi dengan frekuensi 170 Hz jika cepat rambat bunyi di udara 340 m/s?",
+      "choices": {
+        "A": "0,5 m",
+        "B": "1 m",
+        "C": "2 m",
+        "D": "3 m"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Bunyi keras yang dihasilkan ketika pesawat melewati kecepatan suara disebut...",
+      "choices": {
+        "A": "Gelombang bunyi",
+        "B": "Eko",
+        "C": "Ledakan sonik",
+        "D": "Resonansi"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Alat yang digunakan untuk mendeteksi keberadaan benda di bawah air dengan gelombang bunyi disebut...",
+      "choices": {
+        "A": "Radar",
+        "B": "Sonar",
+        "C": "Sismograf",
+        "D": "Mikrofon"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Cepat rambat bunyi di medium padat seperti logam lebih besar dibandingkan udara karena...",
+      "choices": {
+        "A": "Logam lebih ringan",
+        "B": "Partikel logam lebih rapat",
+        "C": "Logam memiliki suhu lebih tinggi",
+        "D": "Logam memiliki viskositas rendah"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Resonansi terjadi ketika...",
+      "choices": {
+        "A": "Dua gelombang bertemu",
+        "B": "Frekuensi benda sama dengan frekuensi sumber bunyi",
+        "C": "Bunyi dipantulkan",
+        "D": "Bunyi dibiaskan"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Manakah pernyataan berikut yang benar tentang bunyi?",
+      "choices": {
+        "A": "Bunyi tidak dapat dipantulkan",
+        "B": "Bunyi tidak dapat dibiaskan",
+        "C": "Bunyi membutuhkan medium untuk merambat",
+        "D": "Bunyi dapat merambat di vakum"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bunyi yang memiliki amplitudo besar terdengar...",
+      "choices": {
+        "A": "Lebih tinggi",
+        "B": "Lebih rendah",
+        "C": "Lebih keras",
+        "D": "Lebih pelan"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Berapakah cepat rambat bunyi di besi, jika rata-rata kecepatan adalah...",
+      "choices": {
+        "A": "500 m/s",
+        "B": "1500 m/s",
+        "C": "5000 m/s",
+        "D": "5100 m/s"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah luas lingkaran tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "154 cm²",
+        "B": "144 cm²",
+        "C": "164 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki diameter 14 cm. Berapakah keliling lingkaran tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "44 cm",
+        "B": "42 cm",
+        "C": "40 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 10 cm. Jika hanya setengah lingkaran yang dihitung, berapakah luasnya? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "157 cm²",
+        "B": "150 cm²",
+        "C": "160 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 21 cm. Berapakah panjang busur dari sudut pusat 60°? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "22 cm",
+        "B": "21 cm",
+        "C": "20 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki luas 314 cm². Berapakah jari-jarinya? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "10 cm",
+        "B": "12 cm",
+        "C": "14 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 14 cm. Jika hanya seperempat lingkaran yang dihitung, berapakah luasnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "154 cm²",
+        "B": "77 cm²",
+        "C": "100 cm²"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Sebuah roda berputar sebanyak 10 kali. Jika jari-jari roda 21 cm, berapakah jarak yang ditempuh roda tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "1320 cm",
+        "B": "1400 cm",
+        "C": "1320 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki diameter 28 cm. Jika hanya setengah lingkaran yang dihitung, berapakah kelilingnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "44 cm",
+        "B": "56 cm",
+        "C": "50 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 14 cm. Berapakah luasnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "616 cm²",
+        "B": "600 cm²",
+        "C": "700 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki diameter 28 cm. Berapakah keliling lingkaran tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "88 cm",
+        "B": "80 cm",
+        "C": "90 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki luas 154 cm². Berapakah jari-jari lingkaran tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "7 cm",
+        "B": "8 cm",
+        "C": "6 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 10 cm. Jika hanya seperempat lingkaran yang dihitung, berapakah luasnya? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "78.5 cm²",
+        "B": "75 cm²",
+        "C": "80 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah roda berputar sebanyak 20 kali. Jika jari-jari roda 14 cm, berapakah jarak yang ditempuh roda tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "1760 cm",
+        "B": "1800 cm",
+        "C": "1700 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 21 cm. Berapakah panjang busur dari sudut pusat 90°? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "33 cm",
+        "B": "31 cm",
+        "C": "35 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kincir angin memiliki diameter 42 cm. Berapa keliling kincir angin tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "132 cm",
+        "B": "140 cm",
+        "C": "125 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki keliling 314 cm. Berapakah jari-jari lingkaran tersebut? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "50 cm",
+        "B": "49 cm",
+        "C": "51 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah ban mobil memiliki diameter 70 cm. Jika mobil melaju sejauh 100 meter, berapa kali ban berputar? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "45 kali",
+        "B": "50 kali",
+        "C": "55 kali"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Jika sebuah lingkaran memiliki keliling 220 cm, berapakah luasnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "3850 cm²",
+        "B": "3800 cm²",
+        "C": "3900 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kolam berbentuk lingkaran memiliki diameter 10 meter. Berapakah luas kolam tersebut? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "78.5 m²",
+        "B": "80 m²",
+        "C": "75 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah jam dinding memiliki panjang jarum pendek 15 cm. Berapakah luas yang dilalui oleh jarum pendek dalam satu jam? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "353.25 cm²",
+        "B": "350 cm²",
+        "C": "360 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 35 cm. Jika hanya setengah lingkaran yang dihitung, berapakah kelilingnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "110 cm",
+        "B": "105 cm",
+        "C": "120 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah taman berbentuk lingkaran memiliki jari-jari 20 meter. Jika dibuat jalan selebar 2 meter mengelilingi taman, berapakah luas jalan tersebut? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "276.46 m²",
+        "B": "280 m²",
+        "C": "270 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah piring memiliki jari-jari 14 cm. Jika hanya setengah lingkaran yang digunakan, berapakah luasnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "308 cm²",
+        "B": "312 cm²",
+        "C": "300 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki jari-jari 10 cm. Berapakah kelilingnya? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "62.8 cm",
+        "B": "60 cm",
+        "C": "65 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah taman berbentuk lingkaran memiliki diameter 14 meter. Berapakah luasnya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "154 m²",
+        "B": "140 m²",
+        "C": "160 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah roda sepeda memiliki jari-jari 35 cm. Jika berputar 100 kali, berapa jarak yang ditempuh? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "22000 cm",
+        "B": "22500 cm",
+        "C": "23000 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lingkaran memiliki keliling 132 cm. Berapakah diameternya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "42 cm",
+        "B": "40 cm",
+        "C": "44 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah roda memiliki jari-jari 21 cm. Jika diputar sejauh 264 meter, berapa kali roda berputar? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "200 kali",
+        "B": "220 kali",
+        "C": "210 kali"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sebuah kolam berbentuk lingkaran memiliki jari-jari 7 meter. Jika setengah bagian kolam ditutup, berapakah luas bagian yang tersisa? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "77 m²",
+        "B": "80 m²",
+        "C": "85 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah ban mobil memiliki keliling 176 cm. Berapakah jari-jarinya? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "28 cm",
+        "B": "30 cm",
+        "C": "32 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kipas angin memiliki jari-jari 14 cm. Berapakah luas lingkaran yang dibentuk oleh ujung kipas saat berputar? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "616 cm²",
+        "B": "620 cm²",
+        "C": "600 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kue berbentuk lingkaran memiliki diameter 21 cm. Jika dipotong menjadi 8 bagian yang sama besar, berapakah luas tiap potongan? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "43.31 cm²",
+        "B": "45 cm²",
+        "C": "40 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah uang koin memiliki jari-jari 1.5 cm. Berapakah keliling koin tersebut? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "9.42 cm",
+        "B": "9.5 cm",
+        "C": "10 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah lampu hias berbentuk lingkaran memiliki diameter 28 cm. Jika lampu tersebut memiliki batas luar berbentuk lingkaran dengan diameter 32 cm, berapakah luas daerah antara batas luar dan lampu? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "188.57 cm²",
+        "B": "190 cm²",
+        "C": "200 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kolam renang berbentuk lingkaran memiliki keliling 314 meter. Berapakah luasnya? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "7850 m²",
+        "B": "8000 m²",
+        "C": "7800 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah taman berbentuk lingkaran memiliki jari-jari 20 meter. Jika dibuat jalan setapak selebar 2 meter mengelilingi taman, berapa luas jalan setapak tersebut? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "263.89 m²",
+        "B": "265 m²",
+        "C": "270 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah pizza berbentuk lingkaran memiliki jari-jari 14 cm. Jika hanya seperempat bagian pizza yang dimakan, berapa luas bagian yang tersisa? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "462 cm²",
+        "B": "450 cm²",
+        "C": "470 cm²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah tiang lampu memiliki bayangan berbentuk lingkaran dengan jari-jari 7 meter. Berapakah luas bayangan tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "154 m²",
+        "B": "150 m²",
+        "C": "160 m²"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah roda gila memiliki jari-jari 42 cm. Berapa keliling roda tersebut? (Gunakan π = 22/7)",
+      "choices": {
+        "A": "264 cm",
+        "B": "260 cm",
+        "C": "270 cm"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Sebuah kincir air memiliki keliling 314 cm. Berapa jari-jarinya? (Gunakan π = 3.14)",
+      "choices": {
+        "A": "50 cm",
+        "B": "49 cm",
+        "C": "51 cm"
+      },
+      "correctAnswer": "A"
+    }
+  ]
+}
